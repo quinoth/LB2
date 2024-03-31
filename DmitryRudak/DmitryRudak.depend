@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1711877779 source:c:\users\zxc\documents\dmitryrudak\main.c
+	<windows.h>
+	<gl/gl.h>
+	"buttons.h"
+	<string.h>
+
+1674029753 c:\users\zxc\desktop\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1674029753 c:\users\zxc\desktop\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1711875941 source:c:\users\zxc\documents\dmitryrudak\buttons.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"buttons.h"
+	"stb_easy_font.h"
+
+1711815668 c:\users\zxc\documents\dmitryrudak\buttons.h
+
+1674029753 c:\users\zxc\documents\dmitryrudak\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
